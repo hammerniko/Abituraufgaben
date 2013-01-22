@@ -1,10 +1,10 @@
 package HP20022003;
 
-public class Person {
+public class A1_Person {
     
     private String derVorname;
 
-    public Person(String einVorname) {
+    public A1_Person(String einVorname) {
          derVorname = einVorname;
     }
     
